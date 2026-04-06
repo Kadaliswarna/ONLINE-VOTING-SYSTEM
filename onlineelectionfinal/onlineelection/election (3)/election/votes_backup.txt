@@ -1,0 +1,3 @@
+Pathapatnam|TDP|1
+VOTED_VOTERS|VOTE001:Pathapatnam
+ELECTION_STATUS|true|false

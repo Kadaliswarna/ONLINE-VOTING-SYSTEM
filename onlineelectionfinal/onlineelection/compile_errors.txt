@@ -1,0 +1,8 @@
+election (3)\election\OnlineVotingSystem.java:1788: error: incompatible types: ResultsDialog cannot be converted to Frame
+                new CustomMessageDialog(this, "Report exported successfully to:\n" + file.getName()).setVisible(true);
+                                        ^
+election (3)\election\OnlineVotingSystem.java:1790: error: incompatible types: ResultsDialog cannot be converted to Frame
+                new CustomMessageDialog(this, "Error exporting report: " + ex.getMessage()).setVisible(true);
+                                        ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+2 errors
